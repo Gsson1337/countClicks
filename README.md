@@ -76,10 +76,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 2. git commit -m "<messege to the commit>"
 3. git push
 
-# When switching branch
 
+
+# When switching branch
 ### First load all branches by wirting
 git fetch origin
-
 ### Change to the wanted branch by writing
 git checkout <wanted branch>
+
+
+
+
+# When done with a issue in the branch, go to github website and do a pull request to merge the branch to main
