@@ -87,4 +87,4 @@ git checkout <wanted branch>
 
 
 
-# When done with a issue in the branch, go to github website and do a pull request to merge the branch to main
+### When done with a issue in the branch, go to github website and do a pull request to merge the branch to main
